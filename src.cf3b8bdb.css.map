@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_service.scss"],"names":[],"mappings":"AAAA,YACE,YAAA,CACA,WAAA,CACA,eAAA,CACA","file":"src.cf3b8bdb.css","sourceRoot":"../src","sourcesContent":["#search-box {\n  font: inherit;\n  padding: 8px;\n  max-width: 320px;\n  margin-bottom: 16px;\n}"]}
